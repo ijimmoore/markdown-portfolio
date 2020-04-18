@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Languages I've used in developing programs and applications
+- Macro Assembler
+- BASIC
+- Pascal
+- C
+- PHP
+- Javascript
+ 
