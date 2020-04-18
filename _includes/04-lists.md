@@ -1,4 +1,4 @@
-# Some of my favorite things
+### Some of my favorite things
 - Animals
 - Gardening
 - Technology
